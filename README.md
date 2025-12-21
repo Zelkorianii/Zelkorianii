@@ -10,7 +10,7 @@ Featured Projects
 AGS Physics Framework :: https://github.com/Zelkorianii/AGS-Physics-Framework
 
    A numerical ODE solver for inflationary cosmology.
-   Features dynamic e-fold calculation and CMB observable prediction using `SciPy` and `NumPy`.
+   Features dynamic e-fold calculation and CMB observable prediction using Scipy and Numpy.
 
 Syntropy MDS :: https://github.com/Zelkorianii/Syntropy-MDS-Prototype
 
