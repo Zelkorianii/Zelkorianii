@@ -7,7 +7,7 @@ I specialize in bridging the gap between theoretical physics and functional soft
 
 Featured Projects
 
-AGS Physics Framework :: (link-to-your-repo)
+AGS Physics Framework :: https://github.com/Zelkorianii/AGS-Physics-Framework
    A numerical ODE solver for inflationary cosmology.
    Features dynamic e-fold calculation and CMB observable prediction using `SciPy` and `NumPy`.
 
