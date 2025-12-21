@@ -7,15 +7,15 @@ I specialize in bridging the gap between theoretical physics and functional soft
 
 Featured Projects
 
-[AGS Physics Framework](link-to-your-repo)**
+[AGS Physics Framework](link-to-your-repo)
    A numerical ODE solver for inflationary cosmology.
    Features dynamic e-fold calculation and CMB observable prediction using `SciPy` and `NumPy`.
 
-[Syntropy MDS](link-to-your-repo)**
+[Syntropy MDS](link-to-your-repo)
    A Material Design mobile application for logistics and last-mile delivery management.
    Implements a "4-Point Proof of Delivery" state machine and dynamic route sorting.
 
-[Helix Batch AI](link-to-your-repo)**
+[Helix Batch AI] :: https://github.com/Zelkorianii/Helix-Batch-AI
    A lightweight, self-evolving conversational agent built using Batch and PowerShell.
    Features a "Syntropy/Care" metric that triggers programmatic self-modification of the bot's logic base.
 
