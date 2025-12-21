@@ -22,6 +22,11 @@ Helix Batch AI :: https://github.com/Zelkorianii/Helix-Batch-AI
    A lightweight, self-evolving conversational agent built using Batch and PowerShell.
    Features a "Syntropy/Care" metric that triggers programmatic self-modification of the bot's logic base.
 
+ECHOES AI :: https://github.com/Zelkorianii/ECHOES-AI
+
+   A small, local AI chatbot utilizing Huggingface, Torch, Transformers, and Microsoft Dialo-GPT-Medium.
+   Proof of concept for Programming capabilities and knowledge of Python 3.8 / AI / Dependancy usage.
+   
 ---
 
 Technical Toolkit
