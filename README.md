@@ -26,7 +26,7 @@ Helix Batch AI :: https://github.com/Zelkorianii/Helix-Batch-AI
 
 Technical Toolkit
 
-Languages: Python 3.x, C++, Windows Batch (CMD), PowerShell.
+Languages: Python 3.8, C++, Windows Batch (CMD), PowerShell.
 Scientific Computing: NumPy, SciPy, Matplotlib, LaTeX.
 App Development: KivyMD (Material Design), Mobile UI/UX Design.
 Workflow: Git/GitHub Version Control, System Automation, Professional Documentation.
@@ -34,6 +34,6 @@ Workflow: Git/GitHub Version Control, System Automation, Professional Documentat
 ---
 
 Connect with me
-LinkedIn: [Your Profile Link]
-Portfolio: [Your Website Link or GitHub Pages]
-Current Focus: Getting my foot into the door for the World of Software Engineering, Data analysis, Programming, and more!
+LinkedIn :: https://www.linkedin.com/in/caden-lewis-43a5953a1/
+Portfolio :: [Your Website Link or GitHub Pages]
+Current Focus :: Getting my foot into the door for the World of Software Engineering, Data analysis, Programming, and more!
