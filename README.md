@@ -3,6 +3,8 @@ B.S. Computational Physics Student | Python & Automation Developer
 
 I specialize in bridging the gap between theoretical physics and functional software. My work ranges from high-precision cosmological simulations to cross-platform mobile logistics solutions.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18032135.svg)](https://doi.org/10.5281/zenodo.18032135)
+
 ---
 
 Featured Projects
