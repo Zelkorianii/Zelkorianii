@@ -5,6 +5,7 @@ I specialize in bridging the gap between theoretical physics and functional soft
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18032135.svg)](https://doi.org/10.5281/zenodo.18032135)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18049677.svg)](https://doi.org/10.5281/zenodo.18049677)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18050492.svg)](https://doi.org/10.5281/zenodo.18050492)
 
 ---
 
